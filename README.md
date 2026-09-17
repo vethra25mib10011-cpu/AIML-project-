@@ -79,7 +79,7 @@ py -3.10 main.py
 ---
 
 ## Screenshot :
-The screenshot of this project is uploaded in the file App Visuals.md
+The screenshot of this project is uploaded in the file App Visuals.md in a more detailed way.
 
 ## Conclusion
 This project shows how computer camera can be used to create a touch-less user interface. It gives a practical solution for real-world problem when people cannot use touch to use the device.
